@@ -321,6 +321,7 @@ footer{
     margin: 0px auto;
     padding: 15px;
     display: flex;
+    flex-wrap: wrap;
 }
 .contact-content form{
     display: flex;
